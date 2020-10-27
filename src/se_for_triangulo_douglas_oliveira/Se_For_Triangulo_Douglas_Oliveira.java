@@ -29,40 +29,4 @@ System.out.print("O triângulo é Escaleno.");
 System.out.print("não é um triângulo");
 }
 
-
-
-/*else if ( (A>= ((B*B) +(C*C))) )
-{ System.out.println ("Não forma um triângulo");
-        }
-if(A == B && A ==C){
-System.out.println("Três lados iguais.Trata-se de um Triangulo Equilatero");
-}
-else if (A==B || A==C ){
-System.out.println("Três lados iguais.Trata-se de um Triangulo Isosceles");
-}else{
-System.out.println("Três lados diferentes é um triangulo Escaleno.");
-} 
-
-}
-
-
-/*if ((A+B>C) && (A+C>B) && (B+C>A))
-        {System.out.println ("forma um triângulo");
-}; 
-if((A==B) && (B==C)){
-    System.out.println("é um triângulo Equilátero");
-} 
-else if( A!=B && A!=C && B!=C)
-{System.out.println("É um triângulo Escaleno");
-}
-else if() {
-    System.out.println("é um triângulo Isósceles");
-}
-
-else  {System.out.println ("Não forma um triângulo");}
-
-
-  }
-    */ 
-
 }
